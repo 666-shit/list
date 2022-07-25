@@ -1,0 +1,11 @@
+D:/CLion/list/cmake-build-debug/CMakeFiles/list.dir
+D:/CLion/list/cmake-build-debug/CMakeFiles/list-1.dir
+D:/CLion/list/cmake-build-debug/CMakeFiles/list-2.dir
+D:/CLion/list/cmake-build-debug/CMakeFiles/stack.dir
+D:/CLion/list/cmake-build-debug/CMakeFiles/stack-2.dir
+D:/CLion/list/cmake-build-debug/CMakeFiles/stack-3.dir
+D:/CLion/list/cmake-build-debug/CMakeFiles/stack-4.dir
+D:/CLion/list/cmake-build-debug/CMakeFiles/list-3.dir
+D:/CLion/list/cmake-build-debug/CMakeFiles/str.dir
+D:/CLion/list/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/CLion/list/cmake-build-debug/CMakeFiles/rebuild_cache.dir
